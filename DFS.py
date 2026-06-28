@@ -22,3 +22,8 @@ F=Node('F')
 G=Node('G')
 H=Node('H')
 
+#Build Tree
+A.children = [B,C,D]
+B.children = [E,F]
+C.children = [G]
+D.children = [H]
