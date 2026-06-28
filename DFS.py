@@ -27,3 +27,8 @@ A.children = [B,C,D]
 B.children = [E,F]
 C.children = [G]
 D.children = [H]
+
+print("DFS traversal of the tree: ")
+dfs(A)
+
+
