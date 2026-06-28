@@ -10,3 +10,15 @@ def dfs(root):
 
     for child in root.children:
         dfs(child)
+
+
+#Create Nodes
+A=Node('A')
+B=Node('B')
+C=Node('C')
+D=Node('D')
+E=Node('E')
+F=Node('F')
+G=Node('G')
+H=Node('H')
+
